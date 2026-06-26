@@ -1,4 +1,4 @@
-# Character Clustering Methods and Multi-Dimensional Statistical Analysis of Charles Dickens’s *Oliver Twist*. 
+# Character Clustering Methods and Multi-Dimensional Statistical Analysis of Charles Dickens’s *Oliver Twist*
 
 This repository hosts the complete computational pipeline engineered in R for the structural, directional, and compositional analysis of character architecture in Charles Dickens's *Oliver Twist*. 
 
